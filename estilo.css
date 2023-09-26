@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+.topo{
+    border: 10px solid red;
+    padding: 10px;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+}
+
+.links{
+    text-align: center;
+
+}
+
+.links a{
+    margin: 30px 10px; 
+    color: white;
+    font-size: 20px;
+}
+
+.home-imagem{
+    margin-top: 95px;
+    width: 100%;
+    border: 18px solid rgb(143, 5, 5);
+    box-sizing: border-box;
+}
+
+.main{
+    width: 55%;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+.area img{
+    width: 100%;
+    border: 11px solid rgb(143, 5, 5);
+}
+
